@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I'm currently working on — Developing end-to-end data analytics projects that combine Python, SQL, and Power BI to solve real-world business problems. My recent focus is on customer behavior analysis, where I work with large-scale transaction datasets (30K+ records) to uncover hidden patterns, segment customers, and build interactive dashboards that drive strategic decisions.<br>🤝 I'm looking to collaborate on — Open-source data science projects, business intelligence solutions, and AI-powered analytics tools. I'm especially interested in working with teams that use data to solve meaningful problems — whether it's retail analytics, predictive modeling, or building automated reporting systems using Python and SQL.<br>🤝 I'm looking for help with — Deepening my understanding of advanced machine learning algorithms, model deployment using Flask or FastAPI, and integrating ML models into real-time applications. I'm also exploring cloud-based data tools like AWS and Azure for scalable data pipelines.<br>🌱 I'm currently learning — Advanced machine learning techniques including ensemble methods, deep learning fundamentals, and Natural Language Processing (NLP). I'm also upskilling in cloud platforms and data engineering concepts like ETL pipelines, data warehousing, and tools like Apache Spark to handle big data at scale.<br>💬 Ask me about — Python for data analysis and automation, writing complex SQL queries for business insights, building Power BI dashboards from scratch, exploratory data analysis (EDA), customer segmentation techniques, feature engineering, and how to turn raw messy data into clear, actionable business recommendations. I love discussing how data can solve real business challenges!<br>⚡ Fun fact — I once analyzed over 30,000 customer transactions in a single project and discovered that a small group of high-value customers were responsible for a disproportionately large share of total revenue — a classic Pareto principle in action! That insight alone shaped an entire marketing strategy recommendation. Data never lies! 📊
 
-<!--
-**Akash277-dev/Akash277-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__akku_pvt_17_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akash-mishraofficial) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Akash Mishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishraakash3003@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Akash277-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Akash277-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash277-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Akash277-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
