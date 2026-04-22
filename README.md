@@ -74,4 +74,3 @@ awesome-public-datasets	Added Indian govt datasets (data.gov.in, RBI DBIE)	🟡 
 </p>
 <p align="center">⭐ <i>If you like my work, consider starring my repos — it means a lot!</i> ⭐</p>
 
-docs: update profile README
